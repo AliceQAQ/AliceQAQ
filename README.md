@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-* Pride as a MtF🏳️‍⚧️
+
 * ArchLinux User
 * Learning Rust🦀
 * Love music & science
